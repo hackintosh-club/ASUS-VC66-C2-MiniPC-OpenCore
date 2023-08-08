@@ -2,7 +2,7 @@
 
 <img src="ScreenShot/VC66-C2.jpg" alt="image" style="zoom:50%;" />
 
-### [ENGLISH](https://github.com/hackintosh-club/JINGYUE-B760I-SNOW-DREAM-OpenCore)
+### [ENGLISH](README.en.md)
 
 #### **[B站视频](https://www.bilibili.com/video/BV1j94y1y7tP)**
 
@@ -31,8 +31,7 @@
 ### BIOS设置
 
 ```
-高级
-     |-- Advanced
+   Advanced
         |-- CPU Configuratiion
 	         |-- SGX:Disabled
 	         |-- VMX:Enabled
@@ -40,7 +39,7 @@
 	      |-- Onboard Devices Configuration
            |-- Serial Port:Disabled
            
-     |-- BOOT
+    BOOT
 	      |-- Secure Boot
 	         |-- OS Type:Other OS
 	         
