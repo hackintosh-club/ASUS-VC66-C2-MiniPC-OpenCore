@@ -6,7 +6,7 @@
 
 ### **[Bilibili Video](https://www.bilibili.com/video/BV1j94y1y7tP)**
 
-[OpenCore 0.9.4](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
