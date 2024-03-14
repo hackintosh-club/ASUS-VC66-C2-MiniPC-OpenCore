@@ -6,12 +6,13 @@
 
 ### **[Bilibili Video](https://www.bilibili.com/video/BV1j94y1y7tP)**
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
 - macOS Monterey 12.x
-- macOS Ventura  13.x 
+- macOS Ventura    13.x 
+- macOS Ventura    14.x 
 
 ### Hardware
 
@@ -30,7 +31,9 @@
 
 ### Notes
 
- - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) or [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) build your SMBIOS
+ - Use [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) build your SMBIOS
+ - Intel  WiFi driver ([AirportItlwm.kext](https://github.com/OpenIntelWireless/itlwm/releases) in this EFI is only applicable to MacOS 14.3.1 Sonoma below. Please download and replace this driver yourself when installing other MacOS versions
+ - Intel WiFi Not Supported Airdrop
 
 ### Bios Setup
 
